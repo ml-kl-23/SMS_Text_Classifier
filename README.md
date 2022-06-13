@@ -1,6 +1,7 @@
 # SMS_Text_Classifier
 Classifies the sms text into HAM or SPAM!
 
+Trained on data available for  download at https://archive.ics.uci.edu/ml/datasets/SMS+Spam+Collection.
 
 
 Here are some examples:
